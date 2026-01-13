@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "今 -明日 世界が終わっても-",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-01-13T23:40:15.806783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今 -明日 世界が終わっても- - Ima -Even if the world ends tomorrow-",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/01_今_-明日_世界が終わっても-_-_Ima_-Even_if_the_world_ends_tomorrow-_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今 -明日 世界が終わっても-",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/02_今_-明日_世界が終わっても-_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今 -明日 世界が終わっても-",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/03_今_-明日_世界が終わっても-_SEVENTEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今 -明日 世界が終わっても-",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_今_-明日_世界が終わっても-_SEVENTEEN.txt"
+    }
+  ]
+}
